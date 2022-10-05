@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Software Engineer<br>My skill:<br>-JS<br>-React<br>-Angular<br>-Html/Css<br>-Storybook<br>-Mui/Antd/Bootstrap<br>-Git/Github<br>-OOP
+I'm Software Engineer)
 
 
 ## 🌐 Socials:
