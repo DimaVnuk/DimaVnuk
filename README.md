@@ -1,10 +1,6 @@
 # 💫 About Me:
 I'm Software Engineer)
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
-
 ## ⚔️ My CodeWars: ##
 ![alt rank](https://www.codewars.com/users/VnuckDima/badges/large)
 
